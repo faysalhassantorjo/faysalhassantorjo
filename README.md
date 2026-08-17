@@ -1,10 +1,7 @@
 **Backend Developer · Python · Django · Distributed Systems**
-
-I build backend systems and explore how they **scale, communicate, and handle real-world workloads**.
+Building backend systems and exploring distributed systems, scalability, and AI engineering.
 
 **Currently exploring:** System Design · Distributed Systems · AI Engineering
-
----
 
 ### Tech
 
