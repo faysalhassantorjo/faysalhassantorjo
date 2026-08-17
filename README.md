@@ -1,5 +1,3 @@
-# Faysal Hassan Torjo
-
 **Backend Developer · Python · Django · Distributed Systems**
 
 I build backend systems and explore how they **scale, communicate, and handle real-world workloads**.
